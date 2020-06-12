@@ -7,7 +7,7 @@ Here's a simple hello world program in c++
 ```c++
   #include <iostream>
 
-  int main() { // this is the main function it is the starting point of the program
+  int main() { // this is the main function, it is the starting point of the execution of the program.
     std::cout << "hello world";
     return 0;
   }
@@ -38,8 +38,9 @@ The first statement that you see std::cout is a object which will help you to di
 >**return 0;**
 
 This is the last statement of our main function body, do you remember that the return type of the main function is of integer type which i told in the int main section. so that's why before ending the main function we must return the integer value and we do that by returning some integer value, and here we are returning the 0 which is indeed an integer.
-**More on 0**
-0 is the exit code which is widely accepted which tells that your program executed successfully. Here we are returning 0 the operating system which invoked our program.
+
+_**More on 0**_
+0 is the exit code which is widely accepted which tells that your program executed successfully. Here we are returning 0 to the operating system which invoked our program.
 
 ---
-**PS:** I know there are lot of things which are left to cover for example the **std::** part. Don't worry i will cover them in future topic. If you find any mistake or typo feel free to leave a message.
+**PS:** I know there are lot of things which are left to cover for example the **std::** part. Don't worry i will cover them in future topic. If you find any mistake or typo feel free to correct it.
