@@ -1,4 +1,4 @@
-# Introudction
+# Introduction
 
 C++ is a middle level language, which is close to the hardware. And can be used for low level programming.
 
